@@ -4,7 +4,7 @@ import { ArrowRight, Download, ExternalLink } from 'lucide-react';
 import { TypeAnimation } from 'react-type-animation';
 import { personalInfo, heroKeywords } from '@/data/portfolio';
 import heroBackground from '@/assets/hero-bg.jpg';
-import profileImage from '@/assets/profile.jpg';
+import profileImage from '@/assets/profile-pic.jpeg';
 
 export default function Hero() {
 
