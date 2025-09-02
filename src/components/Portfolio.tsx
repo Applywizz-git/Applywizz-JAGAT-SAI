@@ -32,7 +32,7 @@ export default function Portfolio() {
     // Preload critical images
     const criticalImages = [
       '/src/assets/hero-bg.jpg',
-      '/src/assets/profile.jpg',
+      '/src/assets/profile-pic.jpeg',
     ];
 
     const imagePromises = criticalImages.map((src) => {
